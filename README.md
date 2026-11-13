@@ -1,5 +1,3 @@
-# Wastewater-Adsorption-Kinetics-Modeling-
-Python script for fitting pseudo-first-order and pseudo-second-order kinetic models.
 # RSM-CCD Quadratic Modeling in Python
 
 Second-order polynomial regression and response surface visualization for a 4-factor, 30-run Central Composite Design (CCD) batch photocatalytic degradation dataset (`Dosage`, `Concentration`, `Irradiation Time`, and `pH`).
